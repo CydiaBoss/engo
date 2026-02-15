@@ -1,0 +1,12 @@
+Theoretical Program
+-------------------
+This CODE is called Engo.
+
+This VARIABLE is called hello and it holds the String "Heelo jwoief".
+
+This FUNCTION is called cal and it needs a Integer, that will be called num. It will return a Boolean.
+It will SAY the num. It will find the sum of num and num and put it in a VARIABLE called sum.
+IF the sum is equal to 5, it will return true. Otherwise, it will return false.
+
+This is the MAIN FUNCTION.
+It will use the cal FUNCTION with the Integer 2.

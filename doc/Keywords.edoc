@@ -1,0 +1,17 @@
+/**************/
+/     ENGO     /
+/**************/
+
+//--Keywords--//
+
+CODE ~ The header of a ENGO class
+Ex: CODE <name of class>.
+
+TASK ~ Declares a method
+Ex: (Basic) TASK <name of method>.
+Ex: (With Args) TASK <name of method> NEED (<type> <name of variable>, ...).
+Ex: (With Return) TASK <name of method> GIVE <type>.
+
+true
+false
+5 - 3 = 3
